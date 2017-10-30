@@ -13,4 +13,4 @@ Notice that our implementation of [CanadianAddressBuilder](src/csc301/builderExa
 That's great, but there is still a __major problem__ with this implementation - Developers/classes can still create `CanadianAddress` instances directly (using `new CanadianAddress()`).
 
 ----
-[Step 5](https://github.com/csc301-fall2014/BuilderExample/tree/step5)
+[Step 5](../../tree/step5)
