@@ -4,7 +4,6 @@ This solution is the __bad example__. It makes the [`CanadianAddress`](src/csc30
    
   
 Parsing strings is not easy, because you never know what format to expect.    
-Your peer evaluations from phase 1 are a great example - In one of the sections, about half the submissions had the wrong format, and required "special treatment".
 
 ----
 [Step 2](../../tree/step2)
