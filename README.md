@@ -7,4 +7,4 @@ Parsing strings is not easy, because you never know what format to expect.
 Your peer evaluations from phase 1 are a great example - In one of the sections, about half the submissions had the wrong format, and required "special treatment".
 
 ----
-[Step 2](https://github.com/csc301-fall2014/BuilderExample/tree/step2)
+[Step 2](../../tree/step2)
