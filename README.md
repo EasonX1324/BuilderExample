@@ -9,4 +9,4 @@ This problem is known as the __telescoping constructor__ anti-pattern.
  * Makes the code error-prone.
 
 ----
-[Step 3](https://github.com/csc301-fall2014/BuilderExample/tree/step3)
+[Step 3](../../tree/step3)
